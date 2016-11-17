@@ -1,4 +1,4 @@
-# Spring-Boot-Cassandra
+# Spring-Boot-RestAPI-Kafka-Cassandra
 
 This Spring Boot Application is integrated to the Kafka and Cassandra.
 a ) You can insert the data into the Cassandra by passing the json data to the API through post request.
